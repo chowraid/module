@@ -1,6 +1,9 @@
 # module
 My attempt at machine learning in python
 
+1. Install Libraries
+```pip install numpy scipy matplotlib ipython jupyter pandas sympy nose```
+
 ---
 
 ### To-Do:
