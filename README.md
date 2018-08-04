@@ -2,7 +2,8 @@
 My attempt at machine learning in python
 
 1. Install Libraries
-```pip install numpy scipy matplotlib ipython jupyter pandas sympy nose```
+```pip install numpy scipy matplotlib ipython jupyter pandas sympy nose scikit-learn```
+
 
 ---
 
